@@ -5,5 +5,7 @@ Description:-
 
 Features:-
   Product Listings: Displays a list of products similar to Amazon’s catalog.
+  
   Shopping Cart: Add and remove items from the cart.
+  
   Responsive Design: Adapted for different screen sizes using CSS.
